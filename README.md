@@ -21,15 +21,13 @@
  </div>
  
    
-  ### Main skills:
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=red)&nbsp;
+  ### Studying in this moment:
+
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 
    
    
-  <h3>IDE</h3>
+  <h3>IDE:</h3>
 <div>
   <img src="https://img.shields.io/badge/sublime_text-0D1117.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" target="_blank"></a>
   <img src="https://img.shields.io/badge/WebStorm-0D1117?style=for-the-badge&logo=WebStorm&logoColor=white" target="_blank"></a>
@@ -38,5 +36,19 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue" target="_blank"></a>
 </div>
 
- ### Workflow platforms
+ ### Workflow platforms:
 ![Jira](https://img.shields.io/badge/Jira-0D1117?style=for-the-badge&logo=Jira&logoColor=blue)&nbsp;
+
+ ### Other knowledge:
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=red)&nbsp;
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusDClima}/count.svg" /></p> 
+<br>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=120&section=footer"/>
