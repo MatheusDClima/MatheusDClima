@@ -10,7 +10,7 @@
   
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusDClima&show_icons=true&count_private=true&hide_border=true&title_color=FFFFF0&icon_color=00FA9A&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDClima&layout=compact&hide_border=true&title_color=FFFFF0&text_color=ff91a4&bg_color=0d1117" />
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDClima&layout=compact&hide_border=true&title_color=FFFFF0&text_color=FFFFF0&bg_color=0d1117" />
 </div>
 
   
@@ -35,4 +35,8 @@
   <img src="https://img.shields.io/badge/WebStorm-0D1117?style=for-the-badge&logo=WebStorm&logoColor=white" target="_blank"></a>
   <img src="https://img.shields.io/badge/Notepad++-0D1117.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=green" target="_blank"></a>
   <img src="https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=white" target="_blank"></a>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue" target="_blank"></a>
 </div>
+
+ ### Workflow platforms
+![Jira](https://img.shields.io/badge/Jira-0D1117?style=for-the-badge&logo=Jira&logoColor=blue)&nbsp;
