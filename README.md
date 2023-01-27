@@ -1,32 +1,35 @@
-OII! Eu sou o Matheus Dias
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=120&section=header"/>
 
 
-- 🔭 Hoje eu trabalho como Agente de Backoffice 2
-- 🌱 Estudando back-end
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFF0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Matheus+Dias;I'm+25+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div>
-  <a href="https://github.com/MatheusDClima"/>
-  <img="" "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDias&layout=compact)](https://github.com/MatheusDClima/github-readme-stats)"/>
-<img "https://github-readme-stats.vercel.app/api?username=MatheusDias&show_icons=true&theme=dark"/>
-  </div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MatheusDClima&bg_color=e6e6c1&color=4c9e5a&line=4c9e5a&point=3e3f41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MatheusDClima&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
   
   
-<h3>LINGUAGENS</h3>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusDClima&show_icons=true&count_private=true&hide_border=true&title_color=FFFFF0&icon_color=00FA9A&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDClima&layout=compact&hide_border=true&title_color=FFFFF0&text_color=ff91a4&bg_color=0d1117" />
 </div>
+
+  
+<div align="center"> 
+<a href="https://www.instagram.com/_diascl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:matheusdias.dcl10@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/matheus-dias-2b7512232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ 
    
+  ### Main skills:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+
    
-<h3>ONDE ME ENCONTRAR</H3>
-<div> 
-  <a href="https://www.instagram.com/_diascl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-   badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:matheusdias.dcl10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
-  <a href="https://www.linkedin.com/in/matheus-dias-2b7512232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
    
   <h3>IDE</h3>
 <div>
@@ -34,5 +37,4 @@ OII! Eu sou o Matheus Dias
   <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" target="_blank"></a>
   <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" target="_blank"></a>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" target="_blank"></a>
-  <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" target="_blank"></a>
 </div>
