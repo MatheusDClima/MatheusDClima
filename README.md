@@ -5,9 +5,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MatheusDClima&bg_color=e6e6c1&color=4c9e5a&line=4c9e5a&point=3e3f41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatheusDClima&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+
   
   
 <div align="center">  
