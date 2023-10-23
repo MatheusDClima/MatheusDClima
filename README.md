@@ -16,7 +16,6 @@
   
 <div align="center"> 
 <a href="https://www.instagram.com/_diascl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:matheusdias.dcl10@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/matheus-dias-2b7512232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
@@ -30,8 +29,6 @@
   <h3>IDE:</h3>
 <div>
   <img src="https://img.shields.io/badge/sublime_text-0D1117.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" target="_blank"></a>
-  <img src="https://img.shields.io/badge/WebStorm-0D1117?style=for-the-badge&logo=WebStorm&logoColor=white" target="_blank"></a>
-  <img src="https://img.shields.io/badge/Notepad++-0D1117.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=green" target="_blank"></a>
   <img src="https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=white" target="_blank"></a>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue" target="_blank"></a>
 </div>
