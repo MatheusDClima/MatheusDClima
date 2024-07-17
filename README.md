@@ -22,7 +22,6 @@
    
   ### Studying in this moment:
 
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;
 
    
