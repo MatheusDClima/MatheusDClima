@@ -23,13 +23,14 @@
   ### Studying in this moment:
 
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=Python&logoColor=white
+)&nbsp;
 
    
    
   <h3>IDE:</h3>
 <div>
   <img src="https://img.shields.io/badge/sublime_text-0D1117.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" target="_blank"></a>
-  <img src="https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=white" target="_blank"></a>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue" target="_blank"></a>
 </div>
 
