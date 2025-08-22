@@ -33,8 +33,8 @@
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=Python&logoColor=white
 )&nbsp;
-![Capa do Projeto](https://img.shields.io/badge/Power%20BI-FAAB00?logo=powerbi&logoColor=white&style=for-the-badge) 
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge) 
+![Capa do Projeto](https://img.shields.io/badge/Power%20BI-FAAB00?logo=powerbi&logoColor=white&style=for-the-badge) 
 ![DAX](https://img.shields.io/badge/DAX-2E77BC?logo=microsoft&logoColor=white&style=for-the-badge) 
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge)
 
