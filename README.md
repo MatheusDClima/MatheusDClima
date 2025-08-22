@@ -13,24 +13,33 @@
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDClima&layout=compact&hide_border=true&title_color=FFFFF0&text_color=FFFFF0&bg_color=0d1117" />
 </div>
 
+---
   
 <div align="center"> 
-<a href="https://www.instagram.com/_diascl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/matheus-dias-2b7512232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+  <a href="https://portifoliomatheus.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-%23000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-dias-2b7512232/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+</div>
+
  
    
   ### Studying in this moment:
 
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;
+
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=Python&logoColor=white
 )&nbsp;
+![Capa do Projeto](https://img.shields.io/badge/Power%20BI-FAAB00?logo=powerbi&logoColor=white&style=for-the-badge) 
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge) 
+![DAX](https://img.shields.io/badge/DAX-2E77BC?logo=microsoft&logoColor=white&style=for-the-badge) 
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge)
 
    
    
   <h3>IDE:</h3>
 <div>
-  <img src="https://img.shields.io/badge/sublime_text-0D1117.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" target="_blank"></a>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue" target="_blank"></a>
 </div>
 
@@ -41,6 +50,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=red)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
