@@ -16,13 +16,14 @@
 ---
   
 <div align="center"> 
-  <a href="https://portifoliomatheus.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-%23000000?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://seu-site-pessoal.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-%237159c1?style=for-the-badge&logo=aboutdotme&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/matheus-dias-2b7512232/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
+
 
  
    
